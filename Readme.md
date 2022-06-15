@@ -29,9 +29,19 @@ poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/L
 
 <img src=https://media.discordapp.net/attachments/934990728373886996/986720628822388736/unknown.png>
 
-Apenas isso não é suficiente para ele funcionar por isso você deve ir na minha pasta chamada .github/workflows perto do meu readme e abrir o código cobrinha.yml 
+Apenas isso não é suficiente para ele funcionar por isso você deve ir na minha pasta chamada `.github/workflows` perto do meu readme e abrir o código `cobrinha.yml` e copiar o código todo 
 
-<div>
-  <img align="left" alt="a-pic" height="200" style="border-radius:50px;" 
-  src=https://cdn.discordapp.com/attachments/934990728373886996/986719287173591150/unknown.png
-</div>
+
+<img src=https://cdn.discordapp.com/attachments/934990728373886996/986719287173591150/unknown.png>
+
+Logo em seguida você irá apertar na aba `Actions` do seu repositório e criar uma pasta workflows selecionando `set up a workflow yourself`. Após isso, automaticamente vai criar um arquivo dentro dela .yml e você poderá apagar tudo oq estiver dentro e colar o código da cobrinha que você copiou
+
+<img src=https://cdn.discordapp.com/attachments/934990728373886996/986722862025044048/unknown.png>
+
+Seguidamente, você deverá substituir o nome que está no código ` github_user_name: LanaAsheley` pelo nome do seu perfil. Logo após, clique em `View runs` e adicione `Run workflows`
+
+<img src=https://cdn.discordapp.com/attachments/934990728373886996/986724891246092359/unknown.png>
+
+<img src=https://cdn.discordapp.com/attachments/934990728373886996/986725264358768741/unknown.png>
+
+Prontinho sua cobrinha já está funcionando! 🐍
