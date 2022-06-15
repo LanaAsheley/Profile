@@ -78,7 +78,7 @@ Prontinho sua cobrinha já está funcionando! 🐍
    src=https://cdn.discordapp.com/attachments/953748242292699174/954252399403491428/igor-freitas-mesa.gif
 </div>
 
-# Finalização
+#
 
 Espero que eu tenha ajudado de alguma forma a você personalizar seu perfil, de uma maneira criativa e organizada!
 ❤️
