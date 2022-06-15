@@ -12,9 +12,7 @@ Bom, você pode começar se apresentando como por exemplo "oi meu nome é João 
 
 ## O que adicionar?
 
-* Você poderá adicionar imagens ou gifs de sua preferência caso ache necessário, ajustando o lugar e o tamanho dependendo de seu perfil.
-
-* Suas estátisticas também é muito interessante e para criar elas é bem simples:
+* Suas estátisticas é muito interessante e para criar elas é bem simples:
 poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e clicar no lápis do lado do arquivo que aparece o meu perfil para você poder editar ele e dessa forma copiar os códigos que estão lá:
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986709660667084880/unknown.png>
@@ -46,6 +44,20 @@ Seguidamente, você deverá substituir o nome que está no código ` github_user
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986724891246092359/unknown.png>
 
-<img src=https://cdn.discordapp.com/attachments/934990728373886996/986725264358768741/unknown.png>
+<img src=https://cdn.discordapp.com/attachments/934990728373886996/986726463376068618/unknown.png>
 
 Prontinho sua cobrinha já está funcionando! 🐍
+
+#
+
+* Você poderá adicionar imagens ou gifs de sua preferência caso ache necessário, ajustando o lugar e o tamanho dependendo de seu perfil
+
+<div>
+    <img align="left" alt="Lana-pic" height="200" style="border-radius:50px;" 
+   src=https://cdn.discordapp.com/attachments/953748242292699174/978020906049871942/83540b2757a6787beb8157b6868c468e.gif
+</div>
+
+<div>
+    <img align="right" alt="Lana-pic" height="200" style="border-radius:50px;" 
+   src=https://cdn.discordapp.com/attachments/934990728373886996/981622341731770419/download20220603151219.png
+</div>
