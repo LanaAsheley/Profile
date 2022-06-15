@@ -12,9 +12,10 @@ Bom, você pode começar se apresentando como por exemplo "oi meu nome é João 
 
 ## O que adicionar?
 
+* Suas estátisticas é muito interessante e para criar elas é bem simples:
+
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986728190783393792/unknown.png>
 
-* Suas estátisticas é muito interessante e para criar elas é bem simples:
 poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e clicar no lápis do lado do arquivo que aparece o meu perfil para você poder editar ele e dessa forma copiar os códigos que estão lá:
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986709660667084880/unknown.png>
@@ -29,9 +30,11 @@ poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/L
 
 #
 
-<img src=https://cdn.discordapp.com/attachments/934990728373886996/986727959681433600/unknown.png>
+* A famosa cobrinha é utilizada por muitas pessoas para mostras os commits que o usuário fez de uma forma mais criativa, e para coloca-la no seu perfil tem os seguintes passos:
 
-* A famosa cobrinha é utilizada por muitas pessoas para mostras os commits que o usuário fez de uma forma mais criativa, e para coloca-la no seu perfil tem os seguintes passos: Entre novamente no meu perfil [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e copie o último código e troque o nome q está `LanaAsheley` para o nome do seu perfil.
+<img src=https://cdn.discordapp.com/attachments/934990728373886996/986728641046142996/unknown.png>  
+
+ Entre novamente no meu perfil [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e copie o último código e troque o nome q está `LanaAsheley` para o nome do seu perfil.
 
 <img src=https://media.discordapp.net/attachments/934990728373886996/986720628822388736/unknown.png>
 
