@@ -21,9 +21,13 @@ poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/L
 
  Mas lembre-se esse é o código do MEU perfil então está as minhas estátisticas, e para mudar e colocar as suas você terá que trocar o que está escrito `LanaAsheley` para o nome que está no seu perfil. Outra coisa que você pode mudar é o [tema](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) copiando qual o tema que se encaixe mais com o seu perfil e trocando no seu próprio código. 
 
+#
+
 * Você pode colocar seus contatos de uma forma mais apresentável também, usando os [badges](https://dev.to/envoy_/150-badges-for-github-pnk) e se tiver alguma dificuldade em como se utiliza eles pode acessar denovo o meu repositório e copiar os códigos de lá, lembrando de trocar as informações para a sua.
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986714703894024262/unknown.png>
+
+#
 
 * A famosa cobrinha é utilizada por muitas pessoas para mostras os commits que o usuário fez de uma forma mais criativa, e para coloca-la no seu perfil tem os seguintes passos: Entre novamente no meu perfil [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e copie o último código e troque o nome q está `LanaAsheley` para o nome do seu perfil.
 
