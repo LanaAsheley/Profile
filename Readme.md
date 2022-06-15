@@ -1,4 +1,4 @@
-# Como fazer seu perfil no Github 
+# Como fazer seu perfil no Github 📑
 
 ## Introdução
 
@@ -6,4 +6,4 @@ Um perfil bonito no github pode ajudar tanto a você ver como está seu desenvol
 
 ## Como começar?
 
-Bom, de início você pode começar se apresentando como por exemplo "oi meu nome é João e eu sou desenvolvedor Front-end" ou "Olá, sou a Luiza! Bem-vindo a minha página", pode deixar informações que você ache necessárias como: em qual área trabalha, qual estado você mora, o que está estudando no momento. Enfim, só cuidado para não colocar informações pessoais que pode colocar você em risco!
+De início crie um repositório com o nome que está no seu Github, por exemplo 'LanaAsheley'
