@@ -24,7 +24,11 @@ poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/L
 
 #
 
-* Você pode colocar seus contatos de uma forma mais apresentável também, usando os [badges](https://dev.to/envoy_/150-badges-for-github-pnk) e se tiver alguma dificuldade em como se utiliza eles pode acessar denovo o meu repositório e copiar os códigos de lá, lembrando de trocar as informações para a sua.
+* Você pode colocar seus contatos de uma forma mais apresentável também, usando os [badges](https://dev.to/envoy_/150-badges-for-github-pnk) 
+
+<img src=https://cdn.discordapp.com/attachments/934990728373886996/986731451347267655/unknown.png>
+
+e se tiver alguma dificuldade em como se utiliza eles pode acessar denovo o meu repositório e copiar os códigos de lá, lembrando de trocar as informações para a sua.
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986714703894024262/unknown.png>
 
@@ -70,6 +74,6 @@ Prontinho sua cobrinha já está funcionando! 🐍
 </div>
 
 <div>
-    <img align="right" alt="Lana-pic" height="200" style="border-radius:50px;" 
-   src=https://gfycat.com/unknownfirstannelid
+    <img align="center" alt="Lana-pic" height="200" style="border-radius:50px;" 
+   src=https://cdn.discordapp.com/attachments/953748242292699174/954252399403491428/igor-freitas-mesa.gif
 </div>
