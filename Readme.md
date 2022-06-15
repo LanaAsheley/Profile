@@ -8,7 +8,7 @@ De início crie um repositório com o nome que está no seu Github, por exemplo:
 
 ## Como começar?
 
-Bom, você pode começar se apresentando como por exemplo "oi meu nome é João e eu sou desenvolvedor Front-end" ou "Olá, sou a Luiza! Bem-vindo a minha página", pode deixar também informações que você ache necessárias como: Em qual área trabalha, qual estado você mora, o que está estudando no momento, pode adicionar emojis para deixar visivelmente mais apresentável. Enfim, só cuidado para não colocar informações pessoais que pode colocar você em risco!
+Bom, você pode começar se apresentando como por exemplo "oi meu nome é João e eu sou desenvolvedor Front-end" ou "Olá, sou a Luiza! Bem-vindo a minha página", pode deixar também informações que você ache necessárias como: Em qual área trabalha, qual estado você mora, o que está estudando no momento e pode adicionar emojis para deixar visivelmente mais apresentável. Enfim, só cuidado para não colocar informações pessoais que pode colocar você em risco!
 
 ## O que adicionar?
 
@@ -16,11 +16,11 @@ Bom, você pode começar se apresentando como por exemplo "oi meu nome é João 
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986728190783393792/unknown.png>
 
-poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e clicar no lápis do lado do arquivo que aparece o meu perfil para você poder editar ele e dessa forma copiar os códigos que estão lá:
+poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e clicar no lápis do lado do arquivo para você poder editar ele, e dessa forma copiar os códigos que estão lá:
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986709660667084880/unknown.png>
 
- Mas lembre-se esse é o código do MEU perfil então está as minhas estátisticas, e para mudar e colocar as suas você terá que trocar o que está escrito `LanaAsheley` para o nome que está no seu perfil. Outra coisa que você pode mudar é o [tema](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) copiando qual o tema que se encaixe mais com o seu perfil e trocando no seu próprio código. 
+ Mas lembre-se, esse é o código do MEU perfil e as minhas estátisticas, para mudar e colocar as suas você terá que trocar o que está escrito `LanaAsheley` para o nome que está no seu perfil. Outra coisa que você pode mudar é o [tema](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) copiando qual o tema que se encaixe mais com o seu perfil e trocando no seu próprio código. 
 
 #
 
@@ -28,7 +28,7 @@ poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/L
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986731451347267655/unknown.png>
 
-e se tiver alguma dificuldade em como se utiliza eles pode acessar denovo o meu repositório e copiar os códigos de lá, lembrando de trocar as informações para a sua.
+e se tiver alguma dificuldade em como se utiliza eles pode acessar denovo o meu repositório e copiar os códigos de lá, lembrando de trocar as informações para a do seu perfil.
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986714703894024262/unknown.png>
 
@@ -61,7 +61,7 @@ Prontinho sua cobrinha já está funcionando! 🐍
 
 #
 
-* Você poderá adicionar imagens ou gifs de sua preferência caso ache necessário, ajustando o lugar e o tamanho dependendo de seu perfil
+* Você poderá adicionar também imagens ou gifs de sua preferência caso ache necessário, ajustando o lugar e o tamanho dependendo de seu perfil
 
 <div>
     <img align="left" alt="Lana-pic" height="200" style="border-radius:50px;" 
@@ -77,3 +77,8 @@ Prontinho sua cobrinha já está funcionando! 🐍
     <img align="center" alt="Lana-pic" height="200" style="border-radius:50px;" 
    src=https://cdn.discordapp.com/attachments/953748242292699174/954252399403491428/igor-freitas-mesa.gif
 </div>
+
+# Finalização
+
+Espero que eu tenha ajudado de alguma forma a você personalizar seu perfil, de uma maneira criativa e organizada!
+❤️
