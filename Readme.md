@@ -17,3 +17,4 @@ Bom, você pode começar se apresentando como por exemplo "oi meu nome é João 
 * Suas estátisticas também é muito interessante e para criar elas é bem simples:
 poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e clicar no lápis do lado do arquivo que aparece o meu perfil para você poder editar ele e dessa forma copiar os códigos que estão lá:
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986709660667084880/unknown.png>
+ Mas lembre-se esse é o código do MEU perfil então está as minhas estátisticas, e para mudar e colocar as suas você terá que trocar o que está escrito `LanaAsheley` para o nome que está no seu perfil. Outra coisa que você pode mudar é o [tema](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) copiando qual o tema que se encaixe mais com o seu perfil e trocando no seu próprio código.
