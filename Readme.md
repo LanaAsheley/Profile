@@ -25,4 +25,13 @@ poderá ir em meu próprio Readme [LanaAsheley](https://github.com/LanaAsheley/L
 
 <img src=https://cdn.discordapp.com/attachments/934990728373886996/986714703894024262/unknown.png>
 
-* 
+* A famosa cobrinha é utilizada por muitas pessoas para mostras os commits que o usuário fez de uma forma mais criativa, e para coloca-la no seu perfil tem os seguintes passos: Entre novamente no meu perfil [LanaAsheley](https://github.com/LanaAsheley/LanaAsheley/blob/main/README.md) e copie o último código e troque o nome q está `LanaAsheley` para o nome do seu perfil.
+
+<img src=https://cdn.discordapp.com/attachments/983863227412803614/986718003242618940/unknown.png>
+
+Apenas isso não é suficiente para ele funcionar por isso você deve ir na minha pasta chamada .github/workflows perto do meu readme e abrir o código cobrinha.yml 
+
+<div>
+   <img align="left" alt="Lana-pic" height="500" style="border-radius:50px;" 
+   src=https://cdn.discordapp.com/attachments/934990728373886996/986719287173591150/unknown.png
+</div>
